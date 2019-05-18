@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["MaterialCreator","SystemData used to create `Material` instances in various ways."]]});
